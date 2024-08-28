@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 💙
 
 Meu nome é Henry Claudino 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desinvolvendo na linguagem javaScript
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos 
 
@@ -12,4 +12,4 @@ Meu nome é Henry Claudino
  @henrycr018
 
 
-![](https://media1.tenor.com/m/COM78THbePQAAAAd/neymar.gif)
+![](https://media.tenor.com/T0OeUs49LSIAAAAi/soccer-futbol.gif)
